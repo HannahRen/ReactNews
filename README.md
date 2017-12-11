@@ -1,6 +1,6 @@
 # ReactNews
 
-News website based on ReactJs and ANT Design
+### News website based on ReactJs and ANT Design
 
-## cd ReactNews
-## webpack-dev-server
+* cd ReactNews
+* webpack-dev-server
