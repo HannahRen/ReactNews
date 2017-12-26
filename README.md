@@ -4,3 +4,4 @@
 
 * cd ReactNews
 * webpack-dev-server
+run at localhost:8080
